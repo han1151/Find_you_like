@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cardbackground">#FFFAEBD7</color>
+    <color name="Gainsboro">#FFDCDCDC</color>
+    <color name="Purple">#FF800080</color>
+    <color name="Black">#FF000000</color>
+    <color name="window_background">#FFF5F5F5</color>
+</resources>

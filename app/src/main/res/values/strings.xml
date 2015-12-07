@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Find you like</string>
+    <string name="image">image</string>
+    <string name="CONSUMER_KEY">Ev9sq1pD8aA19UO4ZQMTfA</string>
+    <string name="CONSUMER_SECRET">wgpc6RiPlwicmIyt4eHAdsDzQFg</string>
+    <string name="TOKEN">UjBhYiHtyc12PmpIE12MQ84mmwlGkDP4</string>
+    <string name="TOKEN_SECRET">Wlts72u7l0NkCuTmaGUEyeadCsw</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
